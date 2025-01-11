@@ -1,0 +1,4 @@
+Type of os: Windows_NT
+Total memory: 7887097856
+Free memory: 1611583488
+Architecture of cpu x64
